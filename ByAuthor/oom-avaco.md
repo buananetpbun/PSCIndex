@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-## All Submissions by oom avaco
+## All Submissions by oom avaco / https://github.com/buananetpbu
 
 </div>
 
